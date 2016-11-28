@@ -40,4 +40,4 @@ If you want to train the network for your classification data instead, change yo
 
 ##Some Practical Issues
 
-Learning rate for classification and regression tasks are normally very different. For regression, if the network is diverging, start with a very small learning rate. Batch size makes a big impact on speed and converge, try to make it as large as you can.
+Learning rate for classification and regression tasks are normally very different. For regression, if the network is diverging, start with a very small learning rate. Batch size makes a big impact on speed and converge, try to make it as large as you can. You may also try changing number of Fully Connected layers (two in the code) and number of neurons in these layers.
