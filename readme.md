@@ -23,6 +23,7 @@ Last step before starting training is to compute the image mean of the dataset b
 Set the paths of training and testing lmdbs and image mean in DiavNet_1.prototxt. Change the batch-size as per your GPU capacity. Make similar changes in DiavNet_Deploy_Res_1.prototxt too. Finally, change the parameters in DiavNet_1_Solver.prototxt as per your problem.
 
 Run
+
 path-to-caffe/build/tools/caffe train --solver=path-to/DiavNet_1_Solver.prototxt
 
 That's it!
