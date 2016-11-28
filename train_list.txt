@@ -1,0 +1,2 @@
+/home/usr/path/to/image/frame000000.jpg,0.3056,0.5452,0.4124,0.6256
+/home/usr/path/to/image/frame000001.jpg,0.7258,0.6463,0.2456,0.6578
